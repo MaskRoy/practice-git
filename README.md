@@ -1,1 +1,1 @@
-"racticing Git" 
+"Practicing Git" 
